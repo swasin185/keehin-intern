@@ -1,12 +1,13 @@
 {
-  "name": "docus-starter",
+  "name": "KEEHIN",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus"
   },
   "dependencies": {
-    "docus": "latest",
     "better-sqlite3": "^12.6.2",
-    "nuxt": "^4.3.1"
+    "docus": "latest",
+    "nuxt": "^4.3.1",
+    "nuxt-studio": "1.4.0"
   }
 }
